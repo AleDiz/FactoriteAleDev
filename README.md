@@ -11,7 +11,7 @@
 
 <p align="center">
   <a href="../../releases/latest">
-    <img src="https://img.shields.io/github/v/release/tu-usuario/Factorite?color=orange&label=Download%20Build&logo=github" alt="Latest Release"/>
+    <img src="https://img.shields.io/github/v/release/AleDiz/Factorite?color=orange&label=Download%20Build&logo=github" alt="Latest Release"/>
   </a>
   <img src="https://img.shields.io/badge/Engine-Godot_4.5-blue?logo=godotengine&logoColor=white" alt="Godot 4.5"/>
   <img src="https://img.shields.io/badge/Language-C%23-purple?logo=csharp&logoColor=white" alt="C#"/>
@@ -63,7 +63,7 @@ If you want to test the game directly without compiling:
 
 | Skill Tree | Market UI |
 | :---: | :---: |
-| ![Skill Tree](img/skill-tree.png) | ![Dynamic Market](img/market-ui.png) |
+| ![Skill Tree](img/skill-tree.gif) | ![Dynamic Market](img/market-ui.gif) |
 
 | Building System | Chunk Generation |
 | :---: | :---: |
