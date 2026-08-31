@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="../../releases/latest">
-    <img src="https://img.shields.io/github/v/release/AleDiz/Factorite?color=orange&label=Download%20Build&logo=github" alt="Latest Release"/>
+  <a href="https://github.com/AleDiz/FactoriteAleDev/releases/latest">
+    <img src="https://img.shields.io/github/v/release/AleDiz/FactoriteAleDev?color=orange&label=Download%20Build&logo=github" alt="Latest Release"/>
   </a>
   <img src="https://img.shields.io/badge/Engine-Godot_4.5-blue?logo=godotengine&logoColor=white" alt="Godot 4.5"/>
   <img src="https://img.shields.io/badge/Language-C%23-purple?logo=csharp&logoColor=white" alt="C#"/>
