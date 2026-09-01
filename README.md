@@ -38,7 +38,7 @@ Players assume the role of a space colonist sponsored by the *Gammazon* corporat
 If you want to test the game directly without compiling:
 
 1. Go to the **[Latest Release](../../releases/latest)** section on GitHub.
-2. Download the `.zip` package for your platform (e.g., `Factorite_v1.0_Windows.zip`).
+2. Download the `.zip` package.
 3. Extract the ZIP contents to any folder.
 4. Launch `Factorite.exe` to play.
 
